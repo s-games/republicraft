@@ -1,0 +1,46 @@
+{
+   "info":"success",
+   "num":4,
+   "result":[
+      {
+         "id":1,
+         "judule":"Backpacks Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/backpacks_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/backpacks_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/backpacks_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is the first add-on for Minecraft: Bedrock Edition to implement fully working backpacks to the game.\n\n They are essentially a mobile chest which you can wear on your back while traveling around in your world.\n\n It's great if you are out on an adventure and need somewhere to offload your blocks and items.\n\n It's easy to wear and also easy to take off in case you need to access the storage space easily.\n\n It's definitely a must have for all the survivors out there!- To get a backpack you'll need to craft one.\n\n You can also dye them.\n\nCrafting recipes are listed below.\n\n To spawn a backpack long tap on the ground with the item - Dye a backpack by clicking on it with a dye (can be redyed)- To lock a backpack place a tripwire hook in the 1st slot.\n\n This will prevent players from stealing your items.\n\n- Claim a backpack with a chest.\n\n (Make sure you don't lock it if you haven't claimed the backpack) this will unlock it's inventory thus allowing you to store items in it.\n\n- To wear a backpack simply stand near one and it'll jump on your back.\n\n To get it off sneak and jump.\n\n"
+      },
+      {
+         "id":2,
+         "judule":"True Backpack Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/true_backpack_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/true_backpack_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/true_backpack_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"\"Now with compatibility\" Looking for a backpack to carry your things?\nWell here you have an addon that adds a backpack that can help you as well as an indicator so you know if you have the backpack or not"
+      },
+      {
+         "id":3,
+         "judule":"Jetpack Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/jetpack_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/jetpack_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/jetpack_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on replaces one of the existing armor items in-game with a brand new jetpack!The jetpack is a smart wearable which you can use to boost yourself up into the sky.\n\nYou control it by activate sneaking, so it's very easy to start using while you're playing the game.\n\n"
+      },
+      {
+         "id":4,
+         "judule":"Mechs And Jetpacks Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/mechs_and_jetpacks_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/mechs_and_jetpacks_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/mechs_and_jetpacks_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"What do Mechs and Jetpacks have in common?\nTheyre both in this pack!\nOther than that, hmmmmm.\n\n.\n\n.\n\n.\n\n Theyre both lots of fun.\n\n.\n\n?\nYes they are!\nThey both can be driven around?\nYep.\n\n Flown\/driven, sure.\n\n They both have pixels.\n\n YES they do!\nWow, these things are more similar than I thought.\n\nGet all of these particular items from your local armorer.\n\n Yes.\n\n theyve been going to Advanced Armorer School, obtained their Diploma Of Advanced Armorer-Type Things IV.\n\nWell, some of them have, good luck with yours!"
+      }
+   ]
+}

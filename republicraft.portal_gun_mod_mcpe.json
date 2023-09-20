@@ -1,0 +1,56 @@
+{
+   "info":"success",
+   "num":5,
+   "result":[
+      {
+         "id":1,
+         "judule":"Portal Gun Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/portal_gun_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/portal_gun_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/portal_gun_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Want to experience the portal gun of java but in bedrock?\nwith this add-on you can now experience the beauty that is the portal gun and you can now troll the animals and even your friends by teleporting them everywhere.\n\n"
+      },
+      {
+         "id":2,
+         "judule":"Portal Gun 3d Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/portal_gun_3d_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/portal_gun_3d_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/portal_gun_3d_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on adds a functional portal gun to the game, based off the portal gun from the popular game Portal, Portal 2 it'll help you travel around your world.\n\n No scripts involved!To get the blue portal gun you'll need to craft it.\n\n It requires a nether star which is hard to obtain in survival mode.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Laser Gun Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/laser_gun_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/laser_gun_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/laser_gun_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on replaces some of the currently existing items with futuristic inspired features.\n\nFor example, the Bow has been replaced by a Laser Gun which is both more badass and more powerful than an ordinary bow.\n\nSome of the mobs have also been replaced by mechanical robots with slightly better powers than the mobs which they replaced.\n\n"
+      },
+      {
+         "id":4,
+         "judule":"Actual Guns Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/actual_guns_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/actual_guns_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/actual_guns_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"The weapons are M24, SVD, PP-19 Bizon, Desert Eagle, Beretta, Magnum, Glock, M3, AA-12, Famas, Galil AR, Flamethrower, RPG, P90, MP5, MP7, MAC-10, UMP-45, AK-47, M4A1, SCAR, and Barrett M82\/To reload, simply drop the gun on the ground or run out of ammo.\n\n"
+      },
+      {
+         "id":5,
+         "judule":"Actual Guns 3d Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/actual_guns_3d_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/actual_guns_3d_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/actual_guns_3d_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Do you like gun addons?\nlike all-time popular ActualGuns addon, what about trying something new?\nSuch as 3D Weapons!\nThen you should definitely try ActualGuns 3D, this addon is available for Minecraft bedrock edition.\n\nCredits: PixelPoly Digital"
+      }
+   ]
+}

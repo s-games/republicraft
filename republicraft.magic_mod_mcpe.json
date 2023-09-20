@@ -1,0 +1,36 @@
+{
+   "info":"success",
+   "num":3,
+   "result":[
+      {
+         "id":1,
+         "judule":"Magica Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/magica_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/magica_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/magica_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Become an elemental magician and fight your friends and foes with unique new weapons or your newly gained magic power.\n\nResearch the source of the fifth element \"Magic\u00e1\" and reach for the crown to become the most powerful wizard alive!"
+      },
+      {
+         "id":2,
+         "judule":"Magic Madness Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/magic_madness_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/magic_madness_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/magic_madness_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Shoots Fireball,summon allies,creates a green shield that can protect and many more.\n\nMagic Madness addon adds different type of staffs,each hold different element.\n\nObtain all the staffs,Mastered all the spells and become the most Powerful Wizard in your world.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Doctor Strange Addon (With Real Magic)",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/doctor_strange_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/doctor_strange_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/doctor_strange_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Have you ever wanted to be a powerful sorcerer and Master of the Mystic Arts?\nAn Avenger?\nTo be able to cast spells, to fly, and be inevitable.?\nLearn to control your powers to protect the Earth from the Dark Dimension.\n\n Key Features:Cloak of Levitation\/Necklace; Eye of Agomatto; The Ancient One's Punch; Shield and Air Travelling spells; portals.\n\n  Custom in-game background music Custom in-game add-on guide with a full tutorial and section for add-on creators.\n\n  "
+      }
+   ]
+}

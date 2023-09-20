@@ -1,0 +1,46 @@
+{
+   "info":"success",
+   "num":4,
+   "result":[
+      {
+         "id":1,
+         "judule":"Ben 10 Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/ben_10_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/ben_10_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/ben_10_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Ben 10!\nThe protector of Earth!\nIs now in Minecraft with this add-on.\n\nBenjamin Tennyson is the kid who has destined to have the Omnitrix among his cousin Gwen Tennyson and his grandpa Maxwell Tennyson.\n\nNow that Ben got the omnitrix, he is now able to transform into an alien to fight monsters and villains.\n\nBut Ben can't save the Minecraft world without the help of Gwen's magic powers, and Grandpa Max's combat and weapon skills.\n\nBen's enemies have also extraordinary powers like Ben and his companions have, but our hero Ben will not let them win and conquer the Minecraft world.\n\nSo, what are you waiting for, discover now how Ben and his companions use their powers and skills to defeat their powerful enemies in the Minecraft world.\n\n"
+      },
+      {
+         "id":2,
+         "judule":"Spiderman Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/spiderman_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/spiderman_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/spiderman_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"The new update of the Spider-Man Add-on adds some new custom entities and new weapons to the game.\n\nThis update also has new better textures for the suits, items and mobs.\n\nIt even has voice acting of some mobs!"
+      },
+      {
+         "id":3,
+         "judule":"Avengers Infinity War Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/avengers_infinity_war_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/avengers_infinity_war_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/avengers_infinity_war_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon is based off the Avenger Infinity War movie.\n\nThe main idea of the add-on is to add most things from the movie into your Minecraft world, including the six Infinity Stones.\n\nThe Infinity Stones have no function, but the Infinity Gaunlet definitely has as sit can save you from death.\n\nThere is also a Thanos Boss, who has 1000 health and can teleport using the Space Stone.\n\nSo suit up and save the world!"
+      },
+      {
+         "id":4,
+         "judule":"Avengers Skins",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/avengers_skins.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_skins\/avengers_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/avengers_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"You like Marvel Comics and movies?\nThen this is your skinpack!With the avengers skinpack you and your friends will win all the battles.\n\nAnd those with Thanos skins will be defeated.\n\nThis skinpack Includes the original avengers:1- Captain America2- Iron Man3- Thor4- Hulk5- Black Widow6- Hawkeye"
+      }
+   ]
+}

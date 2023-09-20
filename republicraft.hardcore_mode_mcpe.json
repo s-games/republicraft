@@ -1,0 +1,66 @@
+{
+   "info":"success",
+   "num":6,
+   "result":[
+      {
+         "id":1,
+         "judule":"Hardcore Mode Addon ",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/hardcore_mode_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/hardcore_mode_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/hardcore_mode_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Fend off the dangerous mobs of the night!Seek shelter that provides protection, and find resources as you replenish your hunger.\n\nEngage to the Java-exclusive yet Hardcore Mode\u2013 all in this add-on!"
+      },
+      {
+         "id":2,
+         "judule":"Hardcore Mode Ultimate Addon ",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/hardcore_mode_ultimate_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/hardcore_mode_ultimate_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/hardcore_mode_ultimate_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon adds the difficulty \"Hardcore Mode\" to Minecraft bedrock edition!Essentially, this addon makes it so each time a player dies they can no longer respawn and that they are dead forever.\n\nAll dead players are put into a custom spectator mode as well.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Herobrine Experience Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/herobrine_experience_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/herobrine_experience_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/herobrine_experience_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Herobrine is the most popular and the oldest myth in Minecraft, some people think he's real even though it was proven that he was fake.\n\n.\n\n.\n\nWith this add-on, youll experience what would it be like if Herobrine was real, can you survive this challenge?"
+      },
+      {
+         "id":4,
+         "judule":"Herobrine Terror [Horror] Map",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/herobrine_terror_horror_map.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_maps\/herobrine_terror_horror_map.zip",
+         "typeMCPE":"Map",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/herobrine_terror_horror_map.html",
+         "extension":"mcworld",
+         "deskripsine":"Herobrine's Terror is a short but really good horror map which takes place in a haunted house.\n\nYou'll be walking around in dark and quiet hallways.\n\nBut occasionally, just to keep you on your toes, something scary will happen.\n\nIt's a great way to start Halloween.\n\nAnd if you think you've got nerves of steel now.\n\n.\n\nyou'll probably have to rethink that after playing the map!"
+      },
+      {
+         "id":5,
+         "judule":"Herobrines Everywhere Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/herobrines_everywhere_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/herobrines_everywhere_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/herobrines_everywhere_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"All of the mobs have had their eyes replaced with the ones of Herobrine.\n\nIt looks as if the mobs have been possessed by the devil.\n\nIt's not just that they look scary but from here on they will also chase you and try to kill you.\n\nEven rabbits!"
+      },
+      {
+         "id":6,
+         "judule":"Wither Storm Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/wither_storm_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/wither_storm_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/wither_storm_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"The Wither Storm Add-on turns the wither boss into a large and frightening boss known in Minecraft Story Mode as the Wither Storm.\n\nIt's like 20 times larger than the wither boss and also much more powerful.\n\nIt's the ultimate challenge for anyone considering themselves a good fighter and want to find out how far their skills can take them.\n\nIf you have the guts to challenge it let us know in the comments if you survived!"
+      }
+   ]
+}

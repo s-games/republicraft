@@ -1,0 +1,56 @@
+{
+   "info":"success",
+   "num":5,
+   "result":[
+      {
+         "id":1,
+         "judule":"X Ray Texture Pack ",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/x_ray_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/x_ray_texture_pack.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/x_ray_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"Have you ever thought, its hard to find those Diamonds or Caves, or you are playing on a server but you can't find any Bases?\nWell fear nomore!Just use X-Ray!"
+      },
+      {
+         "id":2,
+         "judule":"Vanilla Deluxe Java Ui Mixed Ui Pvp Ui Texture Pack",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/vanilla_deluxe_java_ui_mixed_ui_pvp_ui_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/vanilla_deluxe_java_ui_mixed_ui_pvp_ui_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/vanilla_deluxe_java_ui_mixed_ui_pvp_ui_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"Actually, is an testing TP made since fall 2016, oriented to port menus and container\/inventory GUI textures from Java Edition to Bedrock Edition more easily and efficient!So, it is not any PC GUI or any Java UI texture.\n\n It is a tool that allows you to port Java GUI Containers textures easily while bringing some improvement in some basic interface.\n\n And was originally made first since autumn 2016 (Started with HUD and Java Inventory) and continued to autumn 2019 with current features.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Advancement Pack Java Achievements And Advancements Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/advancement_pack_java_achievements_and_advancements_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/advancement_pack_java_achievements_and_advancements_addon.z",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/advancement_pack_java_achievements_and_advancements_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Give spice to your gameplay by bringing Java advancements into Bedrock Edition with this add-on!\nFeaturing a Java-like popup display whenever you unlock an achievement and advancement, per world per player.\n\n  By CubeIR.\n\n"
+      },
+      {
+         "id":4,
+         "judule":"Durability Viewer Resource Pack Texture Pack",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/durability_viewer_resource_pack_texture_pack.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/durability_viewer_resource_pack_texture_pack.zip",
+         "typeMCPE":"Texture",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/durability_viewer_resource_pack_texture_pack.html",
+         "extension":"mcpack",
+         "deskripsine":"Are you frustrated by the lack of information about your tools and armor given in-game.\n\n Are you frustrated that Mojang hasnt added an actual durability viewer that works on all platforms?Need not to worry as, yet again, the community seems to be doing more for Minecraft Bedrock Edition than Mojang these days!This resource pack adds a durability counter to the hotbar, to the armor grid, and when you click on items.\n\n This resource pack is compatible with several popular UI resource packs and should work out-of-the box as is intended on all devices, and on both pocket and desktop UI profiles.\n\n"
+      },
+      {
+         "id":5,
+         "judule":"Damage Indicator Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/damage_indicator_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/damage_indicator_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/damage_indicator_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Do you want to make your minecraft experience more of a rpg game?\nSo, what's missing?\nDamage Indicator!\nYes!\nSome of us wanted to see the damage we deal to our enemies.\n\n This addon does the job for you.\n\n FEATURES :- Shows the damage dealt enemy and also heal amount- Monitors HP precisely- Vanishes when invisible- Maximum render distance of 20 blocks- 3 options are available: Health Bar, Heart Icon and Combination of the two- Resource pack only (Achievement-friendly)"
+      }
+   ]
+}

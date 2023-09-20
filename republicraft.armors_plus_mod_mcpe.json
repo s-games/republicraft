@@ -1,0 +1,56 @@
+{
+   "info":"success",
+   "num":5,
+   "result":[
+      {
+         "id":1,
+         "judule":"Armors Plus Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/armors_plus_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/armors_plus_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/armors_plus_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Armorplus is an addon that adds many types of new armors to our game, these armors vary according to the material with which they are made.\n\nIn this version 2 special armors have been added as well as some swords that are designed to be used with the same armor.\n\n"
+      },
+      {
+         "id":2,
+         "judule":"Custom Armor Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/custom_armor_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/custom_armor_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/custom_armor_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon adds 5 new custom armor to your game in 1.\n\n13 Minecraft bedrock edition using health boost as the armor rating instead this method uses attachments a new feature in the latest Minecraft update.\n\n"
+      },
+      {
+         "id":3,
+         "judule":"Bedrock Armor Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/bedrock_armor_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/bedrock_armor_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/bedrock_armor_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on replaces the existing Chain Armor with the Bedrock Armor which is a whole lot more powerful compared to any other armor set.\n\nYou'll immune to fire, explosives and much more.\n\nYou will also run much faster and have more health while wearing the armor.\n\nIt's definitely makes survival much more easy as you won't have to worry as much about the dangers around you.\n\n"
+      },
+      {
+         "id":4,
+         "judule":"Block Armor Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/block_armor_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/block_armor_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/block_armor_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is the first and the best armor addon for Minecraft Bedrock, we take advantage of the new code creation possibilities to be able to create these armors and have special functions according to their type"
+      },
+      {
+         "id":5,
+         "judule":"Dungeons Armor Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/dungeons_armor_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/dungeons_armor_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/dungeons_armor_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"These armors and additional items can be found in the creative inventory Weapons, armors and tools section.\n\n"
+      }
+   ]
+}

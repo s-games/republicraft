@@ -1,0 +1,46 @@
+{
+   "info":"success",
+   "num":4,
+   "result":[
+      {
+         "id":1,
+         "judule":"Human Addon ",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/human_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/human_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/human_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"The latest update for the Human Addon has dropped, including a revamped skin system, allowing for 1,664 different skins across all humans,a revamped upgrade system (now called Fighters), as well as a revamped scheduling system that allows humans to live in villages and sleep in beds.\n\n"
+      },
+      {
+         "id":2,
+         "judule":"Villagers Come Alive Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/villagers_come_alive_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/villagers_come_alive_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/villagers_come_alive_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon aims to make villager seem more alive and actually useful and have similar abilities to humans in real life.\n\n By giving them cake you can make them start relationships between one another and even have babies.\n\n You can pay villagers with gold ingots to hire them as your guards and fire them once you don't need them.\n\nVillagers really become a whole lot more interesting as you will be able to gain a social (and monetary) advantage bu interacting with the people.\n\nFamiliesVillagers love cakes.\n\n If you hold one in your hand they will immediately start following you.\n\nYou can even spark love between two villagers by giving each of them a cake.\n\n Soon after they are done with their love dance a baby villager will come to life.\n\nFemale villagersReplaces normal villagersFemale attributes (breasts), a few pixels shorterMale villagersReplaces zombie villagersTaller than femalesYou can only hire males as guardsYou can use the villager spawn egg to spawn both sexesGuardsThere are two types of villagers: normal ones and guards.\n\n If you can't find any guards then you can train a normal villager by giving him an iron chestplate.\n\n A guard will by default protect the village from monsters.\n\nYou can only train a male villager to become a guard.\n\nHiring a GuardHeading out on an adventure?\nHire a male villager to be your guard in exchange for 1 \u2013 6 gold ingot.\n\n When you see some heart particles you will know it's hired.\n\nBoth guard types will follow you around and protect you.\n\n You can command them to stay or follow (similar to a wolf).\n\nArcher: Give bowSwordsman: Give iron swordvillagers-come-alive-2villagers-come-alive-1OtherWhen you don't need your guard anymore you can fire him in exchange for a gold ingotVillagers and guards can be healed with almost any type of food itemNo villager soundsChangelogZombie villagers are male villagers, slightly taller than males onesNormal villagers are female villagers, smaller, female attributes (breasts)To breed villager babies you will need one male and one femaleOnly males can be trained to become guardsIf villagers are killed by a zombie then they will turn into a normal zombie"
+      },
+      {
+         "id":3,
+         "judule":"Reasonable Villager Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/reasonable_villager_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/reasonable_villager_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/reasonable_villager_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"This add-on adds a new villager type called the Reasonable Villager.\n\nHe's way less greedy than the other villagers and can sell you everything from food items to diamonds and emeralds in exchange for just some dirt, wood planks or other items.\n\nIt's great for anyone who want to improve the functionalities for villagers and make them more useful.\n\n"
+      },
+      {
+         "id":4,
+         "judule":"Strengthenable Villagers Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/strengthenable_villagers_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/strengthenable_villagers_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/strengthenable_villagers_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"The idea comes from Vindication Villager Addon, but you can strengthen Villagers by giving them some weapons instead of just Iron Axes.\n\nDue to Pillagers and Raids are added from Village and Pillage update, Vindication Villager Addon seems to be outdated.\n\n"
+      }
+   ]
+}
